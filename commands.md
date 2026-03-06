@@ -1,3 +1,5 @@
+# Linux basic commands
+
 pwd
 ls
 cd
@@ -8,3 +10,5 @@ mv
 touch
 cat
 nano
+
+
